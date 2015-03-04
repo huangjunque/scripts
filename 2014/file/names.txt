@@ -1,0 +1,14 @@
+bigd
+check_file_exists
+check_file_exists
+data.
+datafile.
+getname_dir
+iteration
+myfile.txt.
+myfile.txt.bak.
+pickle-1
+remove_characters_1
+replace
+struct-1
+test-1
